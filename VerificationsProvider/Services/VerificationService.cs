@@ -102,7 +102,7 @@ public class VerificationService(ILogger<VerificationService> logger, IServicePr
                                         {code}
                                     </p>
                                     <div style='color: #191919; font-size: 11px;'>
-                                        <p>If you did not request this code, it is possible that someone else is trying to access the Silicon Account<span>Account {verificationRequest.Email}. This email can't receive replies. For more information, visit the Silicons Help Center</span></p>
+                                        <p>If you did not request this code, it is possible that someone else is trying to access the Silicon Account.<span>Account {verificationRequest.Email}. This email can't receive replies. For more information, visit the Silicons Help Center</span></p>
                                     </div>
                                 </div>
                                 <div style='color: #191919; text-align: center; font-size: 11px;'>
