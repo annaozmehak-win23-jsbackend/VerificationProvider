@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/sqldatabase_silicon_win23_annaozmehak.database.windows.net/silicon_database/SqlAdmin/SqlTable/dbo.VerificationRequests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|c:\\users\\anna\\documents\\repos\\verificationsprovider\\verificationsprovider\\services\\verificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|solutionrelative:verificationsprovider\\services\\verificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,29 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dbo.VerificationRequests [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/sqldatabase_silicon_win23_annaozmehak.database.windows.net/silicon_database/SqlAdmin/SqlTable/dbo.VerificationRequests.sql",
-              "ToolTip": "dbo.VerificationRequests [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-10T10:53:31.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "VerificationService.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Services\\VerificationService.cs",
               "RelativeDocumentMoniker": "VerificationsProvider\\Services\\VerificationService.cs",
               "ToolTip": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Services\\VerificationService.cs",
               "RelativeToolTip": "VerificationsProvider\\Services\\VerificationService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwGcAAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T10:52:46.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "host.json",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\host.json",
               "RelativeDocumentMoniker": "VerificationsProvider\\host.json",
@@ -60,12 +47,11 @@
               "RelativeToolTip": "VerificationsProvider\\host.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T10:49:03.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T10:49:03.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VerificationCleaner.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Functions\\VerificationCleaner.cs",
               "RelativeDocumentMoniker": "VerificationsProvider\\Functions\\VerificationCleaner.cs",
@@ -73,8 +59,7 @@
               "RelativeToolTip": "VerificationsProvider\\Functions\\VerificationCleaner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T10:47:26.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T10:47:26.734Z"
             }
           ]
         }
