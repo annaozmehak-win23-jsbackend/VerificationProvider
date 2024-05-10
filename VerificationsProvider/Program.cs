@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Diagnostics;
 using VerificationsProvider.Data.Contexts;
+using VerificationsProvider.Services;
 
 var host = new HostBuilder()
     .ConfigureFunctionsWebApplication()
@@ -12,6 +13,8 @@ var host = new HostBuilder()
         services.AddApplicationInsightsTelemetryWorkerService();
         services.ConfigureFunctionsApplicationInsights();
         services.AddDbContext<DataContext>(x => x.UseSqlServer(Environment.GetEnvironmentVariable("SiliconDatabase")));
+        services.AddScoped<IVerificationService, VerificationService>();
+        services.AddScoped<IVerificationCleanerService, VerificationCleanerService>();
     })
     .Build();
 
@@ -21,7 +24,7 @@ using (var scope = host.Services.CreateScope())
     {
         var context = scope.ServiceProvider.GetRequiredService<DataContext>();
         var migration = context.Database.GetPendingMigrations();
-        if (migration != null || migration.Any())
+        if (migration != null && migration.Any())
         {
             context.Database.Migrate();
         }
