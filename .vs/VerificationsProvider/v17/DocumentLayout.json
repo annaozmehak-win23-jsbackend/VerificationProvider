@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|c:\\users\\anna\\documents\\repos\\verificationsprovider\\verificationsprovider\\functions\\generateverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|solutionrelative:verificationsprovider\\functions\\generateverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|c:\\users\\anna\\documents\\repos\\verificationsprovider\\verificationsprovider\\functions\\generateverificationcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|solutionrelative:verificationsprovider\\functions\\generateverificationcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|c:\\users\\anna\\documents\\repos\\verificationsprovider\\verificationsprovider\\services\\verificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|solutionrelative:verificationsprovider\\services\\verificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|c:\\users\\anna\\documents\\repos\\verificationsprovider\\verificationsprovider\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5F76742-7F0C-4F4B-81C8-0121D69A7B96}|VerificationsProvider\\VerificationsProvider.csproj|solutionrelative:verificationsprovider\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateVerification.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Functions\\GenerateVerification.cs",
+              "RelativeDocumentMoniker": "VerificationsProvider\\Functions\\GenerateVerification.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Functions\\GenerateVerification.cs",
+              "RelativeToolTip": "VerificationsProvider\\Functions\\GenerateVerification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:16:35.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\local.settings.json",
+              "RelativeDocumentMoniker": "VerificationsProvider\\local.settings.json",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\local.settings.json",
+              "RelativeToolTip": "VerificationsProvider\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T10:06:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Services\\VerificationService.cs",
+              "RelativeDocumentMoniker": "VerificationsProvider\\Services\\VerificationService.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Services\\VerificationService.cs",
+              "RelativeToolTip": "VerificationsProvider\\Services\\VerificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:29:41.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateVerificationCode.cs",
+              "DocumentMoniker": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Functions\\GenerateVerificationCode.cs",
+              "RelativeDocumentMoniker": "VerificationsProvider\\Functions\\GenerateVerificationCode.cs",
+              "ToolTip": "C:\\Users\\Anna\\Documents\\Repos\\VerificationsProvider\\VerificationsProvider\\Functions\\GenerateVerificationCode.cs",
+              "RelativeToolTip": "VerificationsProvider\\Functions\\GenerateVerificationCode.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:28:59.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
